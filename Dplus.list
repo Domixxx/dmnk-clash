@@ -1,5 +1,6 @@
 # 内容：D+
 # 数量：7条
+# 来源：https://github.com/DivineEngine/Profiles/tree/master/Clash/RuleSet/StreamingMedia/Video
 PROCESS-NAME,com.disney.disneyplus
 DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,disneyplus.com
