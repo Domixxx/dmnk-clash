@@ -6,6 +6,9 @@
 # 政府网站
 DOMAIN-SUFFIX,immi.gov.au
 DOMAIN-SUFFIX,homeaffairs.gov.au
+DOMAIN-SUFFIX,homeaffairs.inq.com
+DOMAIN-SUFFIX,api.translate.gov.au
+
 DOMAIN-SUFFIX,qld.gov.au
 
 # 其他网站
